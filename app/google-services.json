@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "105805634184",
+    "firebase_url": "https://simpletextv2.firebaseio.com",
+    "project_id": "simpletextv2",
+    "storage_bucket": "simpletextv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105805634184:android:3121d1f1265ba02c",
+        "android_client_info": {
+          "package_name": "com.example.hriday.simpletextv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105805634184-s982i3o4eih3tcndi6p7pgf2qbfsem0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hriday.simpletextv2",
+            "certificate_hash": "0966168bd8278ef9b3b133cb2202044e8a481fcd"
+          }
+        },
+        {
+          "client_id": "105805634184-t3m2ais4njtskv8o7vr4rgtg2i6qn7bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Vm7M-6vmN6Qyl5385qM2K0f8WVDlnrA"
+        },
+        {
+          "current_key": "AIzaSyBRlmV6NNxjtK02GabUpBLxBrS1mNRNLkw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105805634184-t3m2ais4njtskv8o7vr4rgtg2i6qn7bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
